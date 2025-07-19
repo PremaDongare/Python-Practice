@@ -1,0 +1,3 @@
+Python is amazing.
+It is easy to learn and powerful.
+I enjoy writing Python code.
