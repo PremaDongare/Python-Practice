@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["A. Delhi", "B. Mumbai", "C. Kolkata", "D. Chennai"],
+    "answer": "A"
+  },
+  {
+    "question": "Who developed Python?",
+    "options": ["A. Elon Musk", "B. Dennis Ritchie", "C. Guido van Rossum", "D. James Gosling"],
+    "answer": "C"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["A. Earth", "B. Mars", "C. Jupiter", "D. Venus"],
+    "answer": "B"
+  },
+  {
+    "question": "Which data structure uses FIFO?",
+    "options": ["A. Stack", "B. Queue", "C. Tree", "D. Graph"],
+    "answer": "B"
+  },
+  {
+    "question": "Which one is a Python web framework?",
+    "options": ["A. React", "B. Angular", "C. Flask", "D. Vue"],
+    "answer": "C"
+  }
+]
